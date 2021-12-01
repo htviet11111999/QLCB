@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_centerHorizontal="true"
+    android:layout_marginLeft="88dp"
+    android:layout_marginTop="200dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_qlgv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QUẢN LÝ GIÁO VIÊN"
+        />
+    <Button
+        android:id="@+id/btn_qlmh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QUẢN LÝ MÔN HỌC"
+        />
+    <Button
+        android:id="@+id/btn_giaobai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GIAO BÀI"
+        />
+    <Button
+        android:id="@+id/btn_thoat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="THOÁT"
+        />
+
+
+</LinearLayout>

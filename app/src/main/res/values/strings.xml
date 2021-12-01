@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GIUAKY</string>
+    <string name="btnThem">THÊM</string>
+    <string name="btnXoa">XÓA</string>
+    <string name="btnSua">SỬA</string>
+    <string name="btnLoad">TẢI LẠI</string>
+    <string name="btnThoat">THOÁT</string>
+</resources>
